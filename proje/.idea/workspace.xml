@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="proje:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82402537-6f1a-43e4-bf0c-fca73ff55983" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/proje$JavaMainApp.ic" NAME="JavaMainApp Coverage Results" MODIFIED="1552947972238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ugurlu.gurkan.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="veritabani: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/WebUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/AnalysisSession.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/config/WebConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+              <folding>
+                <element signature="method#jspViewResolver#0;class#WebConfig#0" />
+                <element signature="method#addResourceHandlers#0;class#WebConfig#0" />
+                <element signature="method#messageSource#0;class#WebConfig#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/dao/MainDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="72" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="72" />
+              <folding>
+                <element signature="method#loadBrowsers#0;class#MainDAO#0" />
+                <element signature="method#loadOsName#0;class#MainDAO#0" />
+                <element signature="method#loadWebPages#0;class#MainDAO#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/config/AppConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/service/MainService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ugurlu/gurkan/TestLoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="51" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
+              <folding>
+                <element signature="method#adminPanelBrowserCount#0;class#TestLoginController#0" />
+                <element signature="method#getMainService#0;class#TestLoginController#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/exceptions/AppExceptionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="14" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/interceptors/AdminInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/exceptions/ResourceNotFoundException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pieChart</find>
+      <find>script</find>
+      <find>Donut</find>
+      <find>İcerik</find>
+      <find>about</find>
+      <find>53</find>
+      <find>Anasayfa</find>
+      <find>ANasay</find>
+      <find>adminpaneluse</find>
+      <find>adminpanel</find>
+      <find>home</find>
+      <find>Total B</find>
+      <find>webpage</find>
+      <find>Rate of</find>
+      <find>Clicki</find>
+      <find>aegis</find>
+      <find>bar cha</find>
+      <find>Aegis Ana</find>
+      <find>Aegis</find>
+      <find>body</find>
+      <find>Connec</find>
+      <find>Homepage</find>
+      <find>juniy</find>
+      <find>info</find>
+      <find>log Login</find>
+      <find>r.start</find>
+      <find>img</find>
+      <find>wthree-sicon</find>
+      <find>toString</find>
+      <find>toString()</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\gurka\Desktop\Java Notlarım\proje\src\test\java\com\ugurlu\gurkan</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/HelloAnalytics.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/client.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/HelloAnalyticsReport.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/service/MainDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsogreniyorm.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jsogreniyorm.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/Admin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/hibernate.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/Chart.min.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/OsNames.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/jquery-jvectormap-1.2.2.min.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/jquery-jvectormap-world-mill-en.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/jquery-jvectormap-usa-en.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/mydiffmodels/OsNames.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/mydiffmodels/BrowserNames.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/mydiffmodels/Counts.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/jquery.flot.categories.min.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/mydiffmodels/PageCounts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/mydiffmodels/PageSessionTimes.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/adminpanel.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/users.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/userinf.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/webpages.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ugurlu/gurkan/TestMainDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/WebUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/WebPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/interceptors/AdminInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/exceptions/ResourceNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/style2.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/404.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/exceptions/AppExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/jquery.min.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/about.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/contact.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/single.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/AnalysisSession.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/BrowserDetails.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/OSDetails.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/Application.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ugurlu/gurkan/TestLoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/dao/MainDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/HomeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/service/MainService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="proje Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-342" />
+    <option name="y" value="22" />
+    <option name="width" value="1940" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="proje" type="58d84e3e:PackageViewProjectNode" />
+              <item name="proje" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="proje" type="58d84e3e:PackageViewProjectNode" />
+              <item name="proje" type="616d4139:PackageViewModuleNode" />
+              <item name="com.ugurlu.gurkan" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="proje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proje" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proje" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proje" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proje" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proje" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gurkan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proje" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gurkan" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proje" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gurkan" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proje" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proje" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proje" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gurkan" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554220465686" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/resources/css" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20294118" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="two.files.diff.last.used.file" value="D:/İndirilenler/52d68e38-212a-4a87-82e3-22bdffbe2796.zip!/pom.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gurka\Desktop\Java Notlarım\proje\src\main\resources" />
+      <recent name="C:\Users\gurka\Desktop\Java Notlarım\proje\src\main\webapp\resources\images" />
+      <recent name="C:\Users\gurka\Desktop\Java Notlarım\proje\src\main\webapp\resources\css" />
+      <recent name="C:\Users\gurka\Desktop\Java Notlarım\proje\src\main\Theme" />
+      <recent name="C:\Users\gurka\Desktop\Java Notlarım\proje\src\main\webapp\WEB-INF\view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gurka\Desktop\Java Notlarım\proje\src\main\webapp\resources\css" />
+      <recent name="C:\Users\gurka\Desktop\Java Notlarım\proje\src\main\webapp\WEB-INF\view" />
+      <recent name="C:\Users\gurka\Desktop\Java Notlarım\proje\src\main\webapp\resources\images" />
+      <recent name="C:\Users\gurka\Desktop\Java Notlarım\proje\src\main\resources" />
+      <recent name="C:\Users\gurka\Desktop\Java Notlarım\proje\src\main\webapp\resources\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.16">
+    <configuration name="JavaMainApp" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ugurlu.gurkan.JavaMainApp" />
+      <module name="proje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ugurlu.gurkan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLoginController.findAverageSessionTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ugurlu.gurkan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ugurlu.gurkan" />
+      <option name="MAIN_CLASS_NAME" value="com.ugurlu.gurkan.TestLoginController" />
+      <option name="METHOD_NAME" value="findAverageSessionTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLoginController.findBiggestSessionTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ugurlu.gurkan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ugurlu.gurkan" />
+      <option name="MAIN_CLASS_NAME" value="com.ugurlu.gurkan.TestLoginController" />
+      <option name="METHOD_NAME" value="findBiggestSessionTime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMainDAO.loadAdmin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ugurlu.gurkan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ugurlu.gurkan" />
+      <option name="MAIN_CLASS_NAME" value="com.ugurlu.gurkan.TestMainDAO" />
+      <option name="METHOD_NAME" value="loadAdmin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMainDAO.loadUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ugurlu.gurkan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ugurlu.gurkan" />
+      <option name="MAIN_CLASS_NAME" value="com.ugurlu.gurkan.TestMainDAO" />
+      <option name="METHOD_NAME" value="loadUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMainDAO.loadWebPages" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ugurlu.gurkan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ugurlu.gurkan" />
+      <option name="MAIN_CLASS_NAME" value="com.ugurlu.gurkan.TestMainDAO" />
+      <option name="METHOD_NAME" value="loadWebPages" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.16" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.16" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="proje:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_proje" />
+        <option name="DEPLOY_TOMCAT_APPS" value="true" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54535" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="proje:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JavaMainApp" />
+      <item itemvalue="JUnit.TestLoginController.findAverageSessionTime" />
+      <item itemvalue="JUnit.TestLoginController.findBiggestSessionTime" />
+      <item itemvalue="JUnit.TestMainDAO.loadAdmin" />
+      <item itemvalue="JUnit.TestMainDAO.loadUsers" />
+      <item itemvalue="JUnit.TestMainDAO.loadWebPages" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.16" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestMainDAO.loadWebPages" />
+        <item itemvalue="JUnit.TestMainDAO.loadUsers" />
+        <item itemvalue="JUnit.TestMainDAO.loadAdmin" />
+        <item itemvalue="JUnit.TestLoginController.findBiggestSessionTime" />
+        <item itemvalue="JUnit.TestLoginController.findAverageSessionTime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82402537-6f1a-43e4-bf0c-fca73ff55983" name="Default Changelist" comment="" />
+      <created>1552943677207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552943677207</updated>
+      <workItem from="1552943680614" duration="13867000" />
+      <workItem from="1552999765901" duration="16565000" />
+      <workItem from="1553541769923" duration="744000" />
+      <workItem from="1553542788397" duration="1208000" />
+      <workItem from="1553551744236" duration="3000" />
+      <workItem from="1553971235347" duration="50000" />
+      <workItem from="1553988799547" duration="2798000" />
+      <workItem from="1554040535754" duration="1452000" />
+      <workItem from="1554124874997" duration="1656000" />
+      <workItem from="1554128154573" duration="3712000" />
+      <workItem from="1554217343653" duration="1585000" />
+      <workItem from="1554220849559" duration="4585000" />
+      <workItem from="1554294209953" duration="9902000" />
+      <workItem from="1554364269235" duration="2841000" />
+      <workItem from="1554757568611" duration="1885000" />
+      <workItem from="1554759594116" duration="6968000" />
+      <workItem from="1555327968351" duration="945000" />
+      <workItem from="1555421224623" duration="28235000" />
+      <workItem from="1555497168742" duration="4540000" />
+      <workItem from="1555507364591" duration="8267000" />
+      <workItem from="1555587929597" duration="2971000" />
+      <workItem from="1555611797174" duration="5131000" />
+      <workItem from="1555618082914" duration="10813000" />
+      <workItem from="1555629022486" duration="5891000" />
+      <workItem from="1555671171000" duration="2734000" />
+      <workItem from="1555678620899" duration="1755000" />
+      <workItem from="1555693676443" duration="7215000" />
+      <workItem from="1555760694339" duration="2529000" />
+      <workItem from="1555782655469" duration="7526000" />
+      <workItem from="1555802658238" duration="4514000" />
+      <workItem from="1555851961311" duration="5110000" />
+      <workItem from="1555857765371" duration="16810000" />
+      <workItem from="1555957776088" duration="77000" />
+      <workItem from="1555958062732" duration="20110000" />
+      <workItem from="1556021893526" duration="2238000" />
+      <workItem from="1556118954178" duration="2434000" />
+      <workItem from="1556148191844" duration="4175000" />
+      <workItem from="1556442726743" duration="37512000" />
+      <workItem from="1556560068680" duration="98000" />
+      <workItem from="1556560193758" duration="17003000" />
+      <workItem from="1556583194592" duration="283000" />
+      <workItem from="1556583532206" duration="25000" />
+      <workItem from="1556583688833" duration="6548000" />
+      <workItem from="1556732738443" duration="687000" />
+      <workItem from="1556736729511" duration="3105000" />
+      <workItem from="1556750845338" duration="810000" />
+      <workItem from="1556756473701" duration="7887000" />
+      <workItem from="1556785502500" duration="7852000" />
+      <workItem from="1556828381488" duration="843000" />
+      <workItem from="1556880171395" duration="5618000" />
+      <workItem from="1557050659876" duration="17311000" />
+      <workItem from="1557075776613" duration="553000" />
+      <workItem from="1557076362687" duration="2553000" />
+      <workItem from="1557081400123" duration="1012000" />
+      <workItem from="1557082442638" duration="8803000" />
+      <workItem from="1557097741234" duration="8992000" />
+      <workItem from="1557145651787" duration="6477000" />
+      <workItem from="1557152689283" duration="1699000" />
+      <workItem from="1557155244105" duration="2712000" />
+      <workItem from="1557159672553" duration="6673000" />
+      <workItem from="1557226579303" duration="1298000" />
+      <workItem from="1557244511313" duration="25001000" />
+      <workItem from="1557319033958" duration="7597000" />
+      <workItem from="1557329170032" duration="639000" />
+      <workItem from="1557329901630" duration="194000" />
+      <workItem from="1557348165939" duration="34000" />
+      <workItem from="1557348354813" duration="17778000" />
+      <workItem from="1557408226703" duration="2801000" />
+      <workItem from="1557772589158" duration="245000" />
+      <workItem from="1557835009589" duration="424000" />
+      <workItem from="1557837335927" duration="2634000" />
+      <workItem from="1557840998763" duration="1862000" />
+      <workItem from="1558014561423" duration="715000" />
+      <workItem from="1558039509188" duration="1656000" />
+      <workItem from="1558120850561" duration="3104000" />
+      <workItem from="1558194026354" duration="821000" />
+      <workItem from="1558195029692" duration="39000" />
+      <workItem from="1558207106705" duration="351000" />
+      <workItem from="1558218737696" duration="41000" />
+      <workItem from="1558382632410" duration="1947000" />
+      <workItem from="1558409543587" duration="692000" />
+      <workItem from="1558418194656" duration="19000" />
+      <workItem from="1558418586588" duration="647000" />
+      <workItem from="1559508193353" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestLoginController_findLastThirtyDayUser - 2019.05.09 at 05h 20m 27s.xml">
+      <configuration name="TestLoginController.findLastThirtyDayUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLoginController_adminPanelBrowserCountandBrowserNames - 2019.05.09 at 05h 22m 45s.xml">
+      <configuration name="TestLoginController.adminPanelBrowserCountandBrowserNames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLoginController_browserNames - 2019.05.09 at 05h 23m 05s.xml">
+      <configuration name="TestLoginController.browserNames" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLoginController_adminPanelBrowserCount - 2019.05.09 at 05h 23m 45s.xml">
+      <configuration name="TestLoginController.adminPanelBrowserCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLoginController_adminPanelTotalCounts - 2019.05.09 at 05h 25m 17s.xml">
+      <configuration name="TestLoginController.adminPanelTotalCounts" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLoginController_findAverageSessionTime - 2019.05.09 at 05h 25m 29s.xml">
+      <configuration name="TestLoginController.findAverageSessionTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLoginController_findBiggestSessionTime - 2019.05.09 at 05h 25m 43s.xml">
+      <configuration name="TestLoginController.findBiggestSessionTime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMainDAO_loadAdmin - 2019.05.09 at 17h 01m 06s.xml">
+      <configuration name="TestMainDAO.loadAdmin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMainDAO_loadUsers - 2019.05.09 at 17h 01m 18s.xml">
+      <configuration name="TestMainDAO.loadUsers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMainDAO_loadWebPages - 2019.05.09 at 17h 08m 12s.xml">
+      <configuration name="TestMainDAO.loadWebPages" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="429497000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.50080776" side_tool="true" weight="0.4989339" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49520257" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4120469" weight="0.27952328" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.42324093" weight="0.3997833" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.48560768" weight="0.32936078" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.46481878" weight="0.32936078" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.48880598" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48987207" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5879531" side_tool="true" weight="0.0595883" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" sideWeight="0.4738806" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.48027718" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="14" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.32936078" />
+      <window_info anchor="right" id="Codota" order="0" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Bean Validation" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.47761193" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49520257" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.42110875" weight="0.32936078" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.42697227" weight="0.3997833" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.48560768" weight="0.32936078" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.46481878" weight="0.32936078" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.48880598" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48987207" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5788913" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" sideWeight="0.4738806" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.48081023" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="14" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.32936078" />
+      <window_info anchor="right" id="Codota" order="0" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Bean Validation" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/HelloAnalyticsReport.java</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/WebUser.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ugurlu/gurkan/TestMainDAO.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="this.urlEncoder" custom="javax.servlet.http.HttpServletResponse" />
+        <watch expression="((java.util.concurrent.ConcurrentHashMap)this.sessions).entrySet().toArray()[0]" custom="javax.servlet.http.HttpSession,javax.servlet.http.HttpServletRequest,java.util.concurrent.ConcurrentHashMap" />
+        <watch expression="((java.util.concurrent.ConcurrentHashMap)this.sessions).entrySet().toArray()[0]" custom="javax.servlet.http.HttpSession,javax.servlet.http.HttpServletRequest,java.util.concurrent.ConcurrentHashMap" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="((IOException)e).stackTrace" custom="java.io.IOException" />
+        <watch expression="((com.google.api.services.analyticsreporting.v4.model.Report)((ArrayList)((com.google.api.client.util.DataMap.Entry)response.entrySet().toArray()[0]).getValue()).get(0)).entrySet().toArray()[0]" custom="com.google.api.services.analyticsreporting.v4.model.Report,com.google.api.client.util.DataMap.Entry,java.util.ArrayList" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>this.internalDispatcherType</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>javax.servlet.http.HttpServletRequest</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/font-awesome2.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE-sources.jar!/org/springframework/web/SpringServletContainerInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="146" column="17" selection-start-line="146" selection-start-column="17" selection-end-line="146" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="317" column="37" selection-start-line="317" selection-start-column="37" selection-end-line="317" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="627" column="12" selection-start-line="627" selection-start-column="12" selection-end-line="627" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="833" column="19" selection-start-line="833" selection-start-column="19" selection-end-line="833" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/eu/bitwalker/UserAgentUtils/1.21/UserAgentUtils-1.21.jar!/eu/bitwalker/useragentutils/OperatingSystem.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2328">
+          <caret line="94" column="13" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/eu/bitwalker/UserAgentUtils/1.21/UserAgentUtils-1.21.jar!/eu/bitwalker/useragentutils/UserAgent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1-sources.jar!/javax/servlet/http/HttpSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="131" column="18" selection-start-line="131" selection-start-column="18" selection-end-line="131" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/eu/bitwalker/UserAgentUtils/1.21/UserAgentUtils-1.21-sources.jar!/eu/bitwalker/useragentutils/OperatingSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="186" column="7" lean-forward="true" selection-start-line="186" selection-start-column="7" selection-end-line="186" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/eu/bitwalker/UserAgentUtils/1.21/UserAgentUtils-1.21-sources.jar!/eu/bitwalker/useragentutils/UserAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="88" column="28" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/demo.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="88059" selection-start-line="1" selection-start-column="88059" selection-end-line="1" selection-end-column="88059" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/adminlte.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/adminpanel.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="430" column="13" selection-start-line="430" selection-start-column="13" selection-end-line="430" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/webpages.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="183" column="3" selection-start-line="183" selection-start-column="3" selection-end-line="187" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/users.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3278" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/single.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="408" column="55" selection-start-line="408" selection-start-column="55" selection-end-line="408" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/contact.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="339" column="51" selection-start-line="339" selection-start-column="51" selection-end-line="339" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/about.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="581" column="53" selection-start-line="581" selection-start-column="53" selection-end-line="581" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="700" column="53" selection-start-line="700" selection-start-column="53" selection-end-line="700" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/OSDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="88" column="21" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/config/WebAppInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="29" column="60" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/WebPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="651" column="48" selection-start-line="651" selection-start-column="48" selection-end-line="651" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/404.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="64" column="15" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1281">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/BrowserDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="98" column="21" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/mydiffmodels/Counts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/mydiffmodels/BrowserNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/mydiffmodels/OsNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/mydiffmodels/PageSessionTimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="112" column="9" selection-start-line="112" selection-start-column="9" selection-end-line="112" selection-end-column="9" />
+          <folding>
+            <element signature="method#threadIndex#0;class#HomeController#0" />
+            <element signature="method#threadAbout#0;class#HomeController#0" />
+            <element signature="method#threadContact#0;class#HomeController#0" />
+            <element signature="method#timeCalculator#0;class#HomeController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="132" column="1" selection-start-line="132" selection-start-column="1" selection-end-line="132" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ugurlu/gurkan/TestMainDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="90" column="30" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="93" column="23" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
+          <folding>
+            <element signature="method#users#0;class#LoginController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/WebUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/analysis/AnalysisSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+          <folding>
+            <element signature="method#jspViewResolver#0;class#WebConfig#0" />
+            <element signature="method#addResourceHandlers#0;class#WebConfig#0" />
+            <element signature="method#messageSource#0;class#WebConfig#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/dao/MainDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="72" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="72" />
+          <folding>
+            <element signature="method#loadBrowsers#0;class#MainDAO#0" />
+            <element signature="method#loadOsName#0;class#MainDAO#0" />
+            <element signature="method#loadWebPages#0;class#MainDAO#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/service/MainService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ugurlu/gurkan/TestLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="51" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
+          <folding>
+            <element signature="method#adminPanelBrowserCount#0;class#TestLoginController#0" />
+            <element signature="method#getMainService#0;class#TestLoginController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/exceptions/AppExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/interceptors/AdminInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/exceptions/ResourceNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ugurlu/gurkan/config/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>proje:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20294118" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (proje)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20294118" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20294118" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20294118" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|proje</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20294118" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20294118" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

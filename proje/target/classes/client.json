@@ -1,0 +1,7 @@
+{"web":
+{"client_id":"469069101749-oplg1v9t7p8muj8m7r3oa2dm311nokjr.apps.googleusercontent.com",
+  "project_id":"crucial-sphinx-237911",
+  "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+  "token_uri":"https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+  "client_secret":"8ndRyBSRJDs44TQZ_OJBTXhr","javascript_origins":["http://localhost:8080"]}}
